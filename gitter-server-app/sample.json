@@ -1,0 +1,141 @@
+{
+  "conversation": [
+    {
+      "fromUser": {
+        "avatarUrl": "https://avatars-03.gitter.im/gh/uv/4/io7m",
+        "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/612494?v=4&s=128",
+        "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/612494?v=4&s=60",
+        "displayName": "Mark Raynsford",
+        "gv": "4",
+        "id": "55c4de710fc9f982beac9b06",
+        "url": "/io7m",
+        "username": "io7m",
+        "v": 19
+      },
+      "html": "<span data-link-type=\"mention\" data-screen-name=\"MadLittleMods\" class=\"mention\">@MadLittleMods</span> i spoke too soon, i think. the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped. i could recreate the webhook, but i&#39;ve held off doing that in case there&#39;s anything on your end you&#39;d want to debug",
+      "id": "5ca48841b34ccd69e7597799",
+      "issues": [],
+      "mentions": [
+        {
+          "screenName": "MadLittleMods",
+          "userId": "553d437215522ed4b3df8c50",
+          "userIds": []
+        }
+      ],
+      "meta": [],
+      "readBy": 20,
+      "sent": "Wed, 03 Apr 2019 10:17:37 GMT",
+      "text": "@MadLittleMods i spoke too soon, i think. the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped. i could recreate the webhook, but i've held off doing that in case there's anything on your end you'd want to debug",
+      "unread": true,
+      "urls": [],
+      "v": 1
+    },
+    {
+      "editedAt": "2019-04-03T12:56:06.105Z",
+      "fromUser": {
+        "avatarUrl": "https://avatars-05.gitter.im/gh/uv/4/MadLittleMods",
+        "avatarUrlMedium": "https://avatars0.githubusercontent.com/u/558581?v=4&s=128",
+        "avatarUrlSmall": "https://avatars0.githubusercontent.com/u/558581?v=4&s=60",
+        "displayName": "Eric Eastwood",
+        "gv": "4",
+        "id": "553d437215522ed4b3df8c50",
+        "staff": true,
+        "url": "/MadLittleMods",
+        "username": "MadLittleMods",
+        "v": 60
+      },
+      "html": "<p><span data-link-type=\"mention\" data-screen-name=\"io7m\" class=\"mention\">@io7m</span> Does GitHub still say it is delivering the events since it has stopped?</p><p>Here are some other reports: <a href=\"https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people\" rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link\">https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people</a></p>",
+      "id": "5ca4ad2cb22d2c592cdfcaa1",
+      "issues": [],
+      "mentions": [
+        {
+          "screenName": "io7m",
+          "userId": "55c4de710fc9f982beac9b06",
+          "userIds": []
+        }
+      ],
+      "meta": [],
+      "readBy": 17,
+      "sent": "Wed, 03 Apr 2019 12:55:08 GMT",
+      "text": "@io7m Does GitHub still say it is delivering the events since it has stopped?\n\nHere are some other reports: https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people",
+      "unread": true,
+      "urls": [
+        {
+          "url": "https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people"
+        }
+      ],
+      "v": 2
+    }
+  ],
+  "summaries": [
+    {
+      "sentences": [
+        "the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped.",
+        "i could recreate the webhook, but i've held off doing that in case there's anything on your end you'd want to debug\n@io7m Does GitHub still say it is delivering the events since it has stopped?"
+      ],
+      "summary_type": "Aylien"
+    },
+    {
+      "sentences": [
+        "MadLittleMods i spoke too soon, i think",
+        " the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped",
+        " i could recreate the webhook, but i've held off doing that in case there's anything on your end you'd want to debug ",
+        "@io7m Does GitHub still say it is delivering the events since it has stopped? Here are some other reports: https://gitlab",
+        "com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people"
+      ],
+      "summary_type": "Meaning-Cloud"
+    },
+    {
+      "sentences": [
+        "@MadLittleMods i spoke too soon, i think.",
+        "the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped."
+      ],
+      "summary_type": "Summarize-Bot"
+    },
+    {
+      "sentences": [
+        "@MadLittleMods i spoke too soon, i think.",
+        "the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped.",
+        "i could recreate the webhook, but i've held off doing that in case there's anything on your end you'd want to debug @io7m Does GitHub still say it is delivering the events since it has stopped?",
+        "Here are some other reports: https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people"
+      ],
+      "summary_type": "Sumy KL-Sum"
+    },
+    {
+      "sentences": [
+        "@MadLittleMods i spoke too soon, i think.",
+        "the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped.",
+        "i could recreate the webhook, but i've held off doing that in case there's anything on your end you'd want to debug @io7m Does GitHub still say it is delivering the events since it has stopped?",
+        "Here are some other reports: https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people"
+      ],
+      "summary_type": "Sumy LSA"
+    },
+    {
+      "sentences": [
+        "@MadLittleMods i spoke too soon, i think.",
+        "the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped.",
+        "i could recreate the webhook, but i've held off doing that in case there's anything on your end you'd want to debug @io7m Does GitHub still say it is delivering the events since it has stopped?",
+        "Here are some other reports: https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people"
+      ],
+      "summary_type": "Sumy LexRank"
+    },
+    {
+      "sentences": [
+        "@MadLittleMods i spoke too soon, i think.",
+        "the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped.",
+        "i could recreate the webhook, but i've held off doing that in case there's anything on your end you'd want to debug @io7m Does GitHub still say it is delivering the events since it has stopped?",
+        "Here are some other reports: https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people"
+      ],
+      "summary_type": "Sumy Luhn"
+    },
+    {
+      "sentences": [
+        "@MadLittleMods i spoke too soon, i think.",
+        "the GitHub webhook was delivering events for all repositories in the org, but it seems like as of a couple of days ago, it seems to have stopped.",
+        "i could recreate the webhook, but i've held off doing that in case there's anything on your end you'd want to debug @io7m Does GitHub still say it is delivering the events since it has stopped?",
+        "Here are some other reports: https://gitlab.com/gitlab-org/gitter/webapp/issues/2084#github-integration-activity-has-stopped-working-for-some-people"
+      ],
+      "summary_type": "Sumy TextRank"
+    }
+  ]
+}

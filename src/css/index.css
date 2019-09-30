@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0 0 0 0;
+  font-family: sans-serif;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.bg-light {
+    background-color: #454748 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.clickable {
+  cursor: pointer;
+}

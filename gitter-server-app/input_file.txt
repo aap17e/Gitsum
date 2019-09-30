@@ -1,0 +1,38 @@
+Can I use compose mode in gitter  app
+
+@Hax4us you can in the desktop app. The mobile apps don't support (on purpose) compose mode AFAIK.
+
+@viktomas is there any reason to avoid it in mobile application
+
+@Hax4us I assume it was for simplicity reasons. Submitting the message `Ctrl`+`Enter` wouldn't be possible on mobile device so there would have to be a UX treatment that would complicate the interface.
+
+hello everyone 
+
+please add features for long posts to collapse it and just add a button to read more to open the post.
+
+because there are long posts and it is very long to scroll
+
+@glennmichaelmejias Topic here has links such as https://gitlab.com/gitlab-org/gitter/webapp/issues
+
+@glennmichaelmejias aha, https://gitlab.com/gitlab-org/gitter/webapp/issues/515
+
+@glennmichaelmejias You can thumbs up that issue.
+
+I added a few 'rooms' to Gitter, and I can see I can "leave this room" in the settings.  I added a few 'people', which show up also under 'all conversations'.  When I click the person, it puts me into an empty private chat.  How do I remove them from my 'all conversations'  and 'people'?
+
+@moymike I've often wondered the same. Thanks for bringing this up.
+
+@moymike @cbj4074 You can only hide a one to one room with another person, "It's not possible to leave a one to one room, only hide it(see below)", https://gitlab.com/gitlab-org/gitter/webapp/blob/develop/docs/rooms.md#hide-a-room
+
+
+
+Hi, I'd like to make a copyright claim on a file that's uploaded via gitter. How should I proceed?
+
+@adtor_twitter Send an email to `support@gitter.im` with all of necessary info to verify. We can delete the file in question
+
+@PramodBisht It looks like you created an issue, https://gitlab.com/gitlab-org/gitter/webapp/issues/2271
+
+I'll respond to you there
+
+@MadLittleMods Thanks!
+
